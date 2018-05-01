@@ -84,6 +84,7 @@ p {
     -webkit-hyphens: auto;
     -moz-hyphens: auto;
     hyphens: auto;
+    font-style: italic;
 }
 
 p.chapter-begin:first-letter {
